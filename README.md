@@ -16,7 +16,7 @@ This is a classic Pacman game developed using C language and the Allegro 5 libra
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/Adeline0415/Pacman.git
    ```
 2. Install the necessary dependencies:
 - Allegro 5 library
